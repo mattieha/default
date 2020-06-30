@@ -130,5 +130,6 @@
   "Villhellm/custom-sidebar",
   "Villhellm/lovelace-animated-background",
   "Voxxie/lovelace-jumbo-card",
-  "xMrVizzy/button-toolbar"
+  "xMrVizzy/button-toolbar",
+  "iantrich/text-divider-row"
 ]
